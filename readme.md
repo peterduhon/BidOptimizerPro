@@ -344,16 +344,10 @@ Distributed under the [MIT License](LICENSE).
 
 ## Contact
 
-**Project Lead:**  
-Jane Doe  
-Email: jane.doe@example.com  
-LinkedIn: [linkedin.com/in/janedoe](https://linkedin.com/in/janedoe)  
-GitHub: [github.com/janedoe](https://github.com/janedoe)
-
-**Recruitment Contact:**  
-John Smith  
-Email: john.smith@example.com  
-LinkedIn: [linkedin.com/in/johnsmith](https://linkedin.com/in/johnsmith)
+**Principal Product Lead:**  
+Pete Duhon  
+LinkedIn: [linkedin.com/in/pete-duhon-7344765](https://www.linkedin.com/in/pete-duhon-7344765/)  
+GitHub: [github.com/peterduhon](https://github.com/peterduhon)
 
 ---
 
