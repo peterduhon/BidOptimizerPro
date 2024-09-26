@@ -1,6 +1,7 @@
 # BidOptimizerPro
 
-![BidOptimizerPro Logo](https://example.com/logo.png)
+<img width="325" alt="Screenshot 2024-09-26 at 6 43 50 AM" src="https://github.com/user-attachments/assets/8fba3d45-30fb-4ee1-a44a-d46bbd16a127">
+
 
 **BidOptimizerPro** is an advanced bidding optimization platform designed to enhance the efficiency and effectiveness of ad bidding strategies. Leveraging cutting-edge machine learning algorithms, comprehensive data processing, and intuitive visualization tools, BidOptimizerPro empowers advertisers and publishers to maximize their ROI through intelligent bid simulations and optimizations.
 
@@ -144,8 +145,6 @@ BidOptimizerPro provides two primary scripts:
    ```bash
    python main.py
    ```
-
-### Example Workflow
 
 ### Example Workflow
 
@@ -371,16 +370,21 @@ LinkedIn: [linkedin.com/in/johnsmith](https://linkedin.com/in/johnsmith)
 
 ---
 
-## Screenshots
+## Visualizations
 
-![Dashboard](https://example.com/dashboard.png)
+![Win Rate by SSP] <img width="1193" alt="win_rate_by_ssp" src="https://github.com/user-attachments/assets/a89a9183-1153-42d1-9ca6-92286c13d9ad">
 
-*Figure 1: Interactive Dashboard showcasing bid metrics.*
+*Figure 1: Bar chart showing the Win Rate by SSP (Supply-Side Platform).*
 
-![Model Training](https://example.com/model_training.png)
+![Average Bid Amount by Advertiser] <img width="788" alt="avg_bid_amount_by_advertiser" src="https://github.com/user-attachments/assets/47309c3b-c82e-4806-9080-9c1ea43b4626">
 
-*Figure 2: Machine Learning Model Training Interface.*
+*Figure 2: Bar chart displaying the Average Bid Amount by Advertiser ID.*
 
+![Distribution of Execution Times] <img width="791" alt="distribution_of_execution_times" src="https://github.com/user-attachments/assets/5efe3abe-4b75-42f0-8721-f908de44726e">
+
+*Figure 3: Histogram illustrating the Distribution of Execution Times for bids.*
+
+These static visualizations provide key insights into the performance of different SSPs, the bidding behavior of advertisers, and the efficiency of the bidding process.
 ---
 
 ## Getting Help
